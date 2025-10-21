@@ -58,7 +58,7 @@ export function CookieBanner() {
             <Button
               onClick={acceptCookies}
               size="default"
-              className="flex-1 md:flex-none bg-accent hover:bg-accent/90 text-white font-semibold"
+              className="flex-1 md:flex-none bg-accent hover:bg-accent/90 text-green-600 font-semibold"
             >
               Accepter Tout
             </Button>
