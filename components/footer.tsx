@@ -243,7 +243,7 @@ export function Footer() {
             <Link
               href="https://www.adictel.eu"
               target="_blank"
-              className="bg-white hover:bg-blue-50 rounded-xl p-5 flex items-center justify-center transition-all border-2 border-slate-200 hover:border-blue-400 hover:shadow-md group"
+              className="bg-black hover:bg-blue-50 rounded-xl p-5 flex items-center justify-center transition-all border-2 border-slate-200 hover:border-blue-400 hover:shadow-md group"
             >
               <img
                 src="/logo-adictel.svg"
